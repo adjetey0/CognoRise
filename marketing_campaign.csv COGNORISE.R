@@ -1,0 +1,1 @@
+marketing_campaign <- read.delim("~/marketing_campaign.csv", header=FALSE)
